@@ -1,1 +1,1 @@
-Project for CS 101
+Project Milestone for CS 101
